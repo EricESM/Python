@@ -1,0 +1,1230 @@
+win,lose,probability
+Cleveland Cavaliers,New York Knicks,0.9222395399072193
+Golden State Warriors,San Antonio Spurs,0.59852805084123473
+Portland Trail Blazers,Utah Jazz,0.77974419249030813
+Boston Celtics,Brooklyn Nets,0.89937937366126097
+Indiana Pacers,Dallas Mavericks,0.64072863673899738
+Houston Rockets,Los Angeles Lakers,0.74628216617134435
+Memphis Grizzlies,Minnesota Timberwolves,0.6222448820860681
+Charlotte Hornets,Milwaukee Bucks,0.71661986320507154
+New Orleans Pelicans,Denver Nuggets,0.53383600172261636
+Miami Heat,Orlando Magic,0.63469850110873205
+Oklahoma City Thunder,Philadelphia 76ers,0.94727466648975256
+Sacramento Kings,Phoenix Suns,0.55427764576972027
+Toronto Raptors,Detroit Pistons,0.7483923680353517
+Atlanta Hawks,Washington Wizards,0.66379419154971597
+Boston Celtics,Chicago Bulls,0.53551688932223174
+Portland Trail Blazers,Los Angeles Clippers,0.64318811780715279
+San Antonio Spurs,Sacramento Kings,0.86253590244730671
+Indiana Pacers,Brooklyn Nets,0.80633797001018426
+Dallas Mavericks,Houston Rockets,0.58615919926464288
+Detroit Pistons,Orlando Magic,0.68490632332596291
+Miami Heat,Charlotte Hornets,0.57722401255856337
+Golden State Warriors,New Orleans Pelicans,0.91200257059121737
+Oklahoma City Thunder,Phoenix Suns,0.93441795667645489
+Cleveland Cavaliers,Toronto Raptors,0.54615825064531465
+Utah Jazz,Los Angeles Lakers,0.88725174913423976
+Chicago Bulls,Indiana Pacers,0.50414441412043043
+Charlotte Hornets,Boston Celtics,0.56203009830355188
+Cleveland Cavaliers,Orlando Magic,0.89225656755855398
+Portland Trail Blazers,Denver Nuggets,0.65196664601916643
+Milwaukee Bucks,Brooklyn Nets,0.73438268860015465
+New York Knicks,Memphis Grizzlies,0.53676729834909009
+Atlanta Hawks,Philadelphia 76ers,0.89614043626040374
+Sacramento Kings,Minnesota Timberwolves,0.59180632562884217
+San Antonio Spurs,New Orleans Pelicans,0.92643302353095347
+Detroit Pistons,Milwaukee Bucks,0.73964254838938392
+Houston Rockets,Dallas Mavericks,0.61166821785405079
+Los Angeles Clippers,Utah Jazz,0.72295210893736284
+Washington Wizards,Memphis Grizzlies,0.52223402347426928
+San Antonio Spurs,Miami Heat,0.69667087496068081
+Oklahoma City Thunder,Los Angeles Lakers,0.95517554121412163
+Golden State Warriors,Phoenix Suns,0.93507269762812539
+Atlanta Hawks,Sacramento Kings,0.7749709487075932
+Chicago Bulls,Brooklyn Nets,0.72107651984113019
+Los Angeles Clippers,Phoenix Suns,0.89897444008536653
+Toronto Raptors,Denver Nuggets,0.85347944326568914
+Cleveland Cavaliers,Houston Rockets,0.8364520888919037
+Detroit Pistons,New York Knicks,0.75686776143681767
+Indiana Pacers,Los Angeles Lakers,0.89652821819989081
+Miami Heat,Sacramento Kings,0.79326540747389196
+Minnesota Timberwolves,Memphis Grizzlies,0.51341794876960645
+New Orleans Pelicans,Milwaukee Bucks,0.56517062951621966
+Orlando Magic,Philadelphia 76ers,0.76912785658612015
+Golden State Warriors,Portland Trail Blazers,0.65449933394158488
+San Antonio Spurs,Utah Jazz,0.84937198803068947
+Atlanta Hawks,Los Angeles Lakers,0.91047996834120548
+Boston Celtics,Chicago Bulls,0.70779864341293874
+Detroit Pistons,Brooklyn Nets,0.7690885604410993
+Charlotte Hornets,Philadelphia 76ers,0.94308379296129152
+Oklahoma City Thunder,Los Angeles Clippers,0.57351081931802028
+Memphis Grizzlies,New Orleans Pelicans,0.67359275370792648
+Houston Rockets,New York Knicks,0.58161619824859367
+Portland Trail Blazers,Phoenix Suns,0.73790616895637895
+Utah Jazz,Dallas Mavericks,0.61828340465460963
+Toronto Raptors,Washington Wizards,0.63578743119649461
+Cleveland Cavaliers,Boston Celtics,0.76868068022289382
+Golden State Warriors,Oklahoma City Thunder,0.68435869642313174
+Indiana Pacers,Milwaukee Bucks,0.68248991140109139
+Minnesota Timberwolves,Denver Nuggets,0.54982218565695862
+Orlando Magic,Sacramento Kings,0.61208546230199601
+Charlotte Hornets,Brooklyn Nets,0.83046221105934204
+Chicago Bulls,New York Knicks,0.75583670959853655
+Dallas Mavericks,Portland Trail Blazers,0.53232483986259016
+Golden State Warriors,Los Angeles Lakers,0.94929779166491002
+Los Angeles Clippers,Memphis Grizzlies,0.68003429898998857
+New Orleans Pelicans,Phoenix Suns,0.688141626999482
+Toronto Raptors,Miami Heat,0.67461695929842314
+San Antonio Spurs,Utah Jazz,0.76784076035338122
+Atlanta Hawks,Washington Wizards,0.55522710246932216
+Atlanta Hawks,Houston Rockets,0.65431966054814339
+Detroit Pistons,Denver Nuggets,0.7145301394557998
+Indiana Pacers,Chicago Bulls,0.66420324382609586
+Milwaukee Bucks,Sacramento Kings,0.52636995671706799
+Oklahoma City Thunder,Minnesota Timberwolves,0.88163058004384165
+Washington Wizards,Orlando Magic,0.52504415342622679
+Cleveland Cavaliers,Philadelphia 76ers,0.95300739641997123
+San Antonio Spurs,Los Angeles Clippers,0.74168334286772475
+Boston Celtics,Denver Nuggets,0.78641530932795034
+Dallas Mavericks,Milwaukee Bucks,0.74983775738646929
+Los Angeles Lakers,Phoenix Suns,0.54984084008299461
+Portland Trail Blazers,Memphis Grizzlies,0.58656714131900922
+Utah Jazz,New York Knicks,0.56886732894381886
+Toronto Raptors,Sacramento Kings,0.85038907639865102
+Chicago Bulls,Orlando Magic,0.68369763664167482
+Charlotte Hornets,Indiana Pacers,0.60067789757231005
+Golden State Warriors,New Orleans Pelicans,0.94441643880919401
+Los Angeles Clippers,Detroit Pistons,0.70221910993368897
+Oklahoma City Thunder,Miami Heat,0.72466358109542972
+Utah Jazz,Philadelphia 76ers,0.83660078752326805
+Washington Wizards,Houston Rockets,0.56166281298448539
+Minnesota Timberwolves,Brooklyn Nets,0.62804467175853174
+Cleveland Cavaliers,Atlanta Hawks,0.76175702824250724
+Dallas Mavericks,Los Angeles Lakers,0.72674214590385455
+Memphis Grizzlies,Denver Nuggets,0.62054271691482177
+Portland Trail Blazers,Phoenix Suns,0.92350174274297636
+Sacramento Kings,New Orleans Pelicans,0.64493072342729041
+Atlanta Hawks,Chicago Bulls,0.69896218544668698
+Charlotte Hornets,Utah Jazz,0.6754133017724443
+Golden State Warriors,Dallas Mavericks,0.88872300672208238
+Indiana Pacers,Philadelphia 76ers,0.93116896182131603
+Los Angeles Clippers,Portland Trail Blazers,0.66559805806183425
+New York Knicks,Brooklyn Nets,0.76503747779873343
+Oklahoma City Thunder,Toronto Raptors,0.63937981880976535
+Orlando Magic,Minnesota Timberwolves,0.61959317842748951
+Detroit Pistons,Phoenix Suns,0.70382283299831339
+San Antonio Spurs,Houston Rockets,0.84257370159713851
+Boston Celtics,Washington Wizards,0.54569054570115405
+Golden State Warriors,Denver Nuggets,0.90550424412662567
+Miami Heat,Chicago Bulls,0.72121306052766887
+Milwaukee Bucks,New Orleans Pelicans,0.58969509787370633
+Sacramento Kings,Los Angeles Lakers,0.80574821901970306
+Boston Celtics,New York Knicks,0.82076601610993249
+Toronto Raptors,Charlotte Hornets,0.53107188947859152
+Oklahoma City Thunder,Los Angeles Clippers,0.68025538946160968
+Utah Jazz,Orlando Magic,0.52254655652379745
+Indiana Pacers,Philadelphia 76ers,0.87627648266700753
+Portland Trail Blazers,Sacramento Kings,0.85942356986087431
+San Antonio Spurs,Detroit Pistons,0.83595292477812633
+Cleveland Cavaliers,Washington Wizards,0.74580990591350171
+Atlanta Hawks,Philadelphia 76ers,0.94075852555341644
+Chicago Bulls,Washington Wizards,0.58201400772153566
+Detroit Pistons,Denver Nuggets,0.6125751745814354
+San Antonio Spurs,Houston Rockets,0.77278381689578457
+Indiana Pacers,Boston Celtics,0.51165193428966438
+Miami Heat,Utah Jazz,0.68962949975865095
+Memphis Grizzlies,Milwaukee Bucks,0.50404740855905095
+Los Angeles Clippers,Minnesota Timberwolves,0.73997325777824896
+New Orleans Pelicans,Los Angeles Lakers,0.76744941695841384
+Phoenix Suns,Brooklyn Nets,0.66672871084473739
+Toronto Raptors,New York Knicks,0.87870781611045623
+Cleveland Cavaliers,Charlotte Hornets,0.76803408710329957
+Golden State Warriors,Phoenix Suns,0.96288620801890834
+Minnesota Timberwolves,Los Angeles Lakers,0.77874467978895845
+Oklahoma City Thunder,Orlando Magic,0.86525625622408198
+Portland Trail Blazers,Denver Nuggets,0.86235752546400157
+Oklahoma City Thunder,Detroit Pistons,0.71273156907578017
+Houston Rockets,Philadelphia 76ers,0.92276970231312194
+Indiana Pacers,Orlando Magic,0.72306986078936519
+Los Angeles Clippers,Brooklyn Nets,0.91810567311304636
+Boston Celtics,New Orleans Pelicans,0.71476692294321587
+Dallas Mavericks,New York Knicks,0.55692374365613129
+San Antonio Spurs,Miami Heat,0.78031522919474527
+Utah Jazz,Memphis Grizzlies,0.70230327810496807
+Cleveland Cavaliers,Toronto Raptors,0.69572517868832573
+Los Angeles Lakers,Brooklyn Nets,0.60611944641529036
+Miami Heat,Atlanta Hawks,0.568683256553567
+Charlotte Hornets,Minnesota Timberwolves,0.70221787299718441
+Portland Trail Blazers,Chicago Bulls,0.80475383569407999
+Atlanta Hawks,Milwaukee Bucks,0.80022778959555618
+Boston Celtics,Dallas Mavericks,0.68593059128302092
+Denver Nuggets,Phoenix Suns,0.7047131703352959
+Cleveland Cavaliers,Indiana Pacers,0.69983215332012927
+Los Angeles Clippers,Memphis Grizzlies,0.79958764240894054
+Detroit Pistons,New York Knicks,0.59351041261497983
+Oklahoma City Thunder,Houston Rockets,0.79862348648249903
+Orlando Magic,New Orleans Pelicans,0.6711109802286791
+Washington Wizards,Philadelphia 76ers,0.83796496637162976
+San Antonio Spurs,Sacramento Kings,0.86253590244730671
+Golden State Warriors,Toronto Raptors,0.67078346086267038
+Houston Rockets,Portland Trail Blazers,0.53369253100976588
+Miami Heat,Milwaukee Bucks,0.81695390497250608
+Minnesota Timberwolves,Philadelphia 76ers,0.84604615192175303
+Utah Jazz,Chicago Bulls,0.64240607711156295
+Washington Wizards,New York Knicks,0.74819749453833606
+Golden State Warriors,Boston Celtics,0.76322359532900463
+Charlotte Hornets,Atlanta Hawks,0.55252184866815557
+Cleveland Cavaliers,Detroit Pistons,0.82962591801424312
+Dallas Mavericks,Memphis Grizzlies,0.69526632686004941
+Toronto Raptors,Denver Nuggets,0.77102444374496981
+Indiana Pacers,Phoenix Suns,0.8527973255357284
+San Antonio Spurs,Los Angeles Lakers,0.93441558602706776
+Portland Trail Blazers,New Orleans Pelicans,0.66953733644504676
+Oklahoma City Thunder,Brooklyn Nets,0.94723122659714698
+Los Angeles Clippers,Sacramento Kings,0.70714938867215138
+Boston Celtics,Detroit Pistons,0.53412494213749317
+Houston Rockets,Utah Jazz,0.60007676708229429
+Los Angeles Clippers,Chicago Bulls,0.75236237755208357
+Memphis Grizzlies,Minnesota Timberwolves,0.6222448820860681
+Golden State Warriors,Milwaukee Bucks,0.91244085653309892
+Charlotte Hornets,New Orleans Pelicans,0.71550699620590774
+Dallas Mavericks,Orlando Magic,0.51042411055370818
+Phoenix Suns,Philadelphia 76ers,0.60022967661816451
+Miami Heat,Washington Wizards,0.5404330603846923
+Portland Trail Blazers,Brooklyn Nets,0.79781878950557639
+Utah Jazz,Denver Nuggets,0.58828611617610349
+Chicago Bulls,Los Angeles Lakers,0.70570233141459116
+Atlanta Hawks,New York Knicks,0.68979011203704821
+Oklahoma City Thunder,Indiana Pacers,0.7512727404965025
+Toronto Raptors,Sacramento Kings,0.74342591033864625
+Charlotte Hornets,Memphis Grizzlies,0.76084879659172411
+Detroit Pistons,Houston Rockets,0.57309118736845632
+Golden State Warriors,Indiana Pacers,0.79787557345392268
+Los Angeles Clippers,Toronto Raptors,0.52546109507283068
+Orlando Magic,Milwaukee Bucks,0.50274972785496619
+Boston Celtics,Minnesota Timberwolves,0.70145765392121517
+Miami Heat,Philadelphia 76ers,0.89044847527836912
+San Antonio Spurs,Dallas Mavericks,0.85547803092278751
+Washington Wizards,Phoenix Suns,0.8215408442361869
+Atlanta Hawks,New Orleans Pelicans,0.81663646462133721
+Chicago Bulls,Denver Nuggets,0.5510182656924989
+Oklahoma City Thunder,Los Angeles Lakers,0.9073789058985654
+Portland Trail Blazers,New York Knicks,0.63368112920501596
+Boston Celtics,Brooklyn Nets,0.82995010822702553
+San Antonio Spurs,Charlotte Hornets,0.7103553031108224
+Cleveland Cavaliers,Portland Trail Blazers,0.8043068768258389
+Los Angeles Clippers,Dallas Mavericks,0.56823594728950388
+Miami Heat,Detroit Pistons,0.52884917430667533
+Golden State Warriors,Los Angeles Lakers,0.97487548957069248
+Toronto Raptors,Houston Rockets,0.61098038021178946
+Indiana Pacers,Atlanta Hawks,0.50201904609955805
+New Orleans Pelicans,Minnesota Timberwolves,0.53563605769188738
+Orlando Magic,Phoenix Suns,0.7570329649081069
+Memphis Grizzlies,Philadelphia 76ers,0.7700483293638557
+Oklahoma City Thunder,Sacramento Kings,0.81183440573495069
+Utah Jazz,Denver Nuggets,0.73195372650617285
+San Antonio Spurs,Boston Celtics,0.71038711844149505
+Cleveland Cavaliers,Dallas Mavericks,0.84976874074156461
+Oklahoma City Thunder,Denver Nuggets,0.83372037020695533
+Los Angeles Clippers,Detroit Pistons,0.5813440096603002
+Indiana Pacers,Brooklyn Nets,0.87950100239219342
+Golden State Warriors,Los Angeles Lakers,0.94929779166491002
+Miami Heat,Memphis Grizzlies,0.63208252819275879
+Toronto Raptors,Milwaukee Bucks,0.78549424383451216
+Charlotte Hornets,New York Knicks,0.68227165835499348
+Washington Wizards,Orlando Magic,0.52504415342622679
+Chicago Bulls,Philadelphia 76ers,0.81473136912191757
+Minnesota Timberwolves,Phoenix Suns,0.54642452847519529
+Portland Trail Blazers,New Orleans Pelicans,0.88771773023325229
+Houston Rockets,Sacramento Kings,0.56434418152359289
+Atlanta Hawks,Utah Jazz,0.52203155142145619
+Charlotte Hornets,New York Knicks,0.82078876328880335
+Golden State Warriors,Minnesota Timberwolves,0.93132911434283849
+Miami Heat,Memphis Grizzlies,0.7725830279908471
+Oklahoma City Thunder,Detroit Pistons,0.79061366244479447
+San Antonio Spurs,Washington Wizards,0.79080572457345832
+Sacramento Kings,Brooklyn Nets,0.63542748599096599
+Dallas Mavericks,New Orleans Pelicans,0.76919154331874329
+Los Angeles Clippers,Indiana Pacers,0.53617782726621566
+Atlanta Hawks,Los Angeles Lakers,0.82471254489007684
+Orlando Magic,Milwaukee Bucks,0.64730398599753947
+Cleveland Cavaliers,Philadelphia 76ers,0.95300739641997123
+Denver Nuggets,Phoenix Suns,0.54821711291698993
+Portland Trail Blazers,Houston Rockets,0.77065194058578756
+Golden State Warriors,Atlanta Hawks,0.81866239602409596
+Charlotte Hornets,Memphis Grizzlies,0.63783540618830015
+Miami Heat,Boston Celtics,0.57811031505714927
+Utah Jazz,Minnesota Timberwolves,0.59167204331844814
+Oklahoma City Thunder,New York Knicks,0.82238257656845248
+Toronto Raptors,Philadelphia 76ers,0.96324822019283995
+Washington Wizards,Sacramento Kings,0.69981724328674011
+Los Angeles Clippers,Brooklyn Nets,0.85530802978985765
+Charlotte Hornets,Detroit Pistons,0.65283110480809647
+Cleveland Cavaliers,Milwaukee Bucks,0.86023441663367839
+New Orleans Pelicans,Los Angeles Lakers,0.76744941695841384
+San Antonio Spurs,Orlando Magic,0.89654775199753212
+Utah Jazz,Houston Rockets,0.59424528704730784
+Boston Celtics,Detroit Pistons,0.65279605696712495
+Chicago Bulls,Los Angeles Lakers,0.87764412973263384
+San Antonio Spurs,Dallas Mavericks,0.77374718208163396
+Miami Heat,Denver Nuggets,0.69403769986530772
+Minnesota Timberwolves,New York Knicks,0.60301572888027355
+Oklahoma City Thunder,Washington Wizards,0.80531966021182055
+Atlanta Hawks,Phoenix Suns,0.7835051116228875
+Portland Trail Blazers,Indiana Pacers,0.71903796984772383
+Toronto Raptors,Memphis Grizzlies,0.83422727099130856
+Milwaukee Bucks,Brooklyn Nets,0.59975632142523294
+Charlotte Hornets,Dallas Mavericks,0.68596390343446489
+Cleveland Cavaliers,Los Angeles Clippers,0.73288229991347187
+Golden State Warriors,Houston Rockets,0.878365049874264
+Memphis Grizzlies,Orlando Magic,0.58680569247157555
+Miami Heat,Utah Jazz,0.50711353579642138
+Atlanta Hawks,Detroit Pistons,0.64313490229704084
+Boston Celtics,Sacramento Kings,0.78227129431635889
+Cleveland Cavaliers,Chicago Bulls,0.73796573697732204
+Houston Rockets,Denver Nuggets,0.60086365565407629
+Los Angeles Clippers,New Orleans Pelicans,0.75217211246568105
+New York Knicks,Minnesota Timberwolves,0.57464733245284683
+Orlando Magic,Philadelphia 76ers,0.76912785658612015
+San Antonio Spurs,Washington Wizards,0.84808643504940906
+Toronto Raptors,Los Angeles Lakers,0.94377728465966237
+Charlotte Hornets,Minnesota Timberwolves,0.78765391706370569
+Dallas Mavericks,Chicago Bulls,0.6346897451245942
+Golden State Warriors,Phoenix Suns,0.96288620801890834
+Memphis Grizzlies,Los Angeles Lakers,0.82495215363356411
+Milwaukee Bucks,Brooklyn Nets,0.73438268860015465
+Boston Celtics,Philadelphia 76ers,0.89249826195298321
+Portland Trail Blazers,Miami Heat,0.69040142315792741
+Toronto Raptors,Atlanta Hawks,0.66137209820000686
+Utah Jazz,Denver Nuggets,0.73195372650617285
+Detroit Pistons,Orlando Magic,0.68490632332596291
+Los Angeles Clippers,Indiana Pacers,0.6535478305043374
+New York Knicks,Sacramento Kings,0.56687265905606454
+Oklahoma City Thunder,New Orleans Pelicans,0.90320507163500163
+Oklahoma City Thunder,Atlanta Hawks,0.63762729047682176
+Washington Wizards,Brooklyn Nets,0.75248686444077451
+Chicago Bulls,Portland Trail Blazers,0.5175551231157236
+Charlotte Hornets,Dallas Mavericks,0.52166380722198524
+Golden State Warriors,Indiana Pacers,0.84615233592471029
+Boston Celtics,Houston Rockets,0.51938576052754692
+Utah Jazz,Los Angeles Lakers,0.73627577852691806
+San Antonio Spurs,Milwaukee Bucks,0.88801651309008034
+Memphis Grizzlies,New Orleans Pelicans,0.50267907824714997
+Denver Nuggets,Philadelphia 76ers,0.7431329872065342
+Cleveland Cavaliers,Toronto Raptors,0.54615825064531465
+Detroit Pistons,Chicago Bulls,0.62216638436410809
+Memphis Grizzlies,Philadelphia 76ers,0.88035762978645105
+Miami Heat,New York Knicks,0.83023817672125744
+San Antonio Spurs,Minnesota Timberwolves,0.88087729532754044
+Utah Jazz,Phoenix Suns,0.8402986703848474
+Washington Wizards,Orlando Magic,0.67477255971285932
+Atlanta Hawks,Miami Heat,0.55677461810601325
+Denver Nuggets,Brooklyn Nets,0.62973326440188382
+Charlotte Hornets,Detroit Pistons,0.65283110480809647
+Dallas Mavericks,Sacramento Kings,0.72043584329724242
+Houston Rockets,Los Angeles Lakers,0.88442650022690805
+Golden State Warriors,Los Angeles Clippers,0.71988670003579358
+Portland Trail Blazers,Milwaukee Bucks,0.67074727732131434
+Cleveland Cavaliers,New York Knicks,0.83939226682969104
+Boston Celtics,Orlando Magic,0.63959674674628186
+Indiana Pacers,Phoenix Suns,0.74815294168341784
+San Antonio Spurs,Chicago Bulls,0.78394785705264025
+Portland Trail Blazers,Memphis Grizzlies,0.58656714131900922
+New Orleans Pelicans,Philadelphia 76ers,0.8374696051454561
+Toronto Raptors,Minnesota Timberwolves,0.85438190350153342
+Golden State Warriors,Utah Jazz,0.81295533273887699
+Washington Wizards,Denver Nuggets,0.70493866743037858
+Toronto Raptors,Boston Celtics,0.53111039888771416
+Charlotte Hornets,Orlando Magic,0.76179205446824194
+Cleveland Cavaliers,Miami Heat,0.77242654379713738
+Dallas Mavericks,Indiana Pacers,0.51894308370408448
+Los Angeles Lakers,Phoenix Suns,0.54984084008299461
+Atlanta Hawks,Milwaukee Bucks,0.72365473883665454
+Detroit Pistons,Minnesota Timberwolves,0.61589177305098097
+Oklahoma City Thunder,Houston Rockets,0.79862348648249903
+Sacramento Kings,New York Knicks,0.64159574335209024
+Miami Heat,Chicago Bulls,0.53024302110768606
+Cleveland Cavaliers,Charlotte Hornets,0.76803408710329957
+Houston Rockets,Dallas Mavericks,0.61166821785405079
+Indiana Pacers,Portland Trail Blazers,0.56443293107748815
+Los Angeles Clippers,New Orleans Pelicans,0.85353676514862031
+Golden State Warriors,Memphis Grizzlies,0.87889781747594531
+Orlando Magic,Denver Nuggets,0.61788640216473378
+San Antonio Spurs,Brooklyn Nets,0.96035789142837791
+Utah Jazz,Sacramento Kings,0.72711969487461547
+Washington Wizards,Milwaukee Bucks,0.73057667843843288
+Detroit Pistons,Philadelphia 76ers,0.9184489774169361
+New York Knicks,Los Angeles Lakers,0.55916460770663523
+Golden State Warriors,Minnesota Timberwolves,0.90669514232801984
+Oklahoma City Thunder,Boston Celtics,0.72041609999978806
+Phoenix Suns,New Orleans Pelicans,0.50978819743147796
+Dallas Mavericks,Denver Nuggets,0.7253435535507109
+Houston Rockets,Brooklyn Nets,0.86570614274528879
+Indiana Pacers,Charlotte Hornets,0.51074417318666931
+Los Angeles Clippers,Portland Trail Blazers,0.66559805806183425
+Miami Heat,Washington Wizards,0.68748223283724585
+Sacramento Kings,Los Angeles Lakers,0.80574821901970306
+Toronto Raptors,Milwaukee Bucks,0.86861619572186999
+Atlanta Hawks,Orlando Magic,0.75399228197991774
+Chicago Bulls,Minnesota Timberwolves,0.71486458928878227
+Cleveland Cavaliers,Memphis Grizzlies,0.89175651812658463
+Golden State Warriors,New Orleans Pelicans,0.91200257059121737
+Phoenix Suns,New York Knicks,0.50615585567607557
+Portland Trail Blazers,Oklahoma City Thunder,0.50220845437647843
+Brooklyn Nets,Los Angeles Lakers,0.62886271570966945
+Dallas Mavericks,Detroit Pistons,0.57420420108709525
+Houston Rockets,Sacramento Kings,0.72154118160007097
+Cleveland Cavaliers,Memphis Grizzlies,0.81083784908843748
+Miami Heat,Indiana Pacers,0.61630786131966375
+Los Angeles Clippers,Orlando Magic,0.6824805954815657
+Toronto Raptors,Philadelphia 76ers,0.92346400630729653
+San Antonio Spurs,Boston Celtics,0.77666166949247917
+Oklahoma City Thunder,Utah Jazz,0.69457986775714686
+Charlotte Hornets,Washington Wizards,0.54659102807455473
+Portland Trail Blazers,Denver Nuggets,0.65196664601916643
+Golden State Warriors,New York Knicks,0.94364859066647777
+Chicago Bulls,Milwaukee Bucks,0.57166743218208982
+Indiana Pacers,New Orleans Pelicans,0.68130261934609071
+San Antonio Spurs,Phoenix Suns,0.91638289626694081
+Boston Celtics,Charlotte Hornets,0.56109757784343672
+Chicago Bulls,Milwaukee Bucks,0.73856368133608086
+Houston Rockets,New Orleans Pelicans,0.7701656094574626
+Memphis Grizzlies,Sacramento Kings,0.61475696039612926
+Miami Heat,Los Angeles Clippers,0.53082087830031899
+Orlando Magic,Brooklyn Nets,0.79697314958784804
+Los Angeles Lakers,Philadelphia 76ers,0.50097572259983791
+Toronto Raptors,Atlanta Hawks,0.66137209820000686
+Utah Jazz,Dallas Mavericks,0.61828340465460963
+Washington Wizards,Detroit Pistons,0.54954398508891356
+Atlanta Hawks,Charlotte Hornets,0.55064125387596252
+Cleveland Cavaliers,Los Angeles Lakers,0.9648887495977343
+Denver Nuggets,New York Knicks,0.60636157543475044
+Detroit Pistons,Indiana Pacers,0.50554301387648404
+Golden State Warriors,Portland Trail Blazers,0.85301013910603773
+Houston Rockets,Minnesota Timberwolves,0.60421573549119278
+Oklahoma City Thunder,Phoenix Suns,0.93441795667645489
+Dallas Mavericks,Sacramento Kings,0.72043584329724242
+Utah Jazz,Memphis Grizzlies,0.51973516626243432
+Miami Heat,Boston Celtics,0.57811031505714927
+Toronto Raptors,Orlando Magic,0.72060558245032424
+Brooklyn Nets,Philadelphia 76ers,0.54374299920995584
+San Antonio Spurs,New Orleans Pelicans,0.92643302353095347
+Los Angeles Clippers,Washington Wizards,0.59263142216748987
+Chicago Bulls,Detroit Pistons,0.55966303462334188
+Dallas Mavericks,Denver Nuggets,0.57647997998408895
+Indiana Pacers,Washington Wizards,0.62714075207665543
+Minnesota Timberwolves,Phoenix Suns,0.70179216408525247
+Oklahoma City Thunder,Atlanta Hawks,0.71258797946569885
+Charlotte Hornets,Los Angeles Lakers,0.91388490073204443
+Golden State Warriors,Utah Jazz,0.88383082508403921
+San Antonio Spurs,Houston Rockets,0.77278381689578457
+Los Angeles Clippers,Denver Nuggets,0.82200436978784841
+Boston Celtics,Memphis Grizzlies,0.63699578917784172
+Miami Heat,Orlando Magic,0.77349378208196362
+Cleveland Cavaliers,Milwaukee Bucks,0.86023441663367839
+Indiana Pacers,New York Knicks,0.64604812110519394
+New Orleans Pelicans,Philadelphia 76ers,0.69628917880789321
+Portland Trail Blazers,Sacramento Kings,0.61714363584817922
+Toronto Raptors,Brooklyn Nets,0.93395252374971127
+Atlanta Hawks,Minnesota Timberwolves,0.78045690923777655
+Chicago Bulls,Washington Wizards,0.58201400772153566
+Cleveland Cavaliers,Milwaukee Bucks,0.91542117963569802
+Detroit Pistons,Memphis Grizzlies,0.68378498907112906
+Oklahoma City Thunder,New Orleans Pelicans,0.84430637971713418
+Houston Rockets,Phoenix Suns,0.6934894793119587
+Portland Trail Blazers,Dallas Mavericks,0.78796815802493614
+Utah Jazz,Sacramento Kings,0.72711969487461547
+Golden State Warriors,Brooklyn Nets,0.95279765898602542
+Indiana Pacers,Boston Celtics,0.51165193428966438
+San Antonio Spurs,Los Angeles Clippers,0.66166655723209644
+Miami Heat,Los Angeles Lakers,0.91891051837362236
+New York Knicks,Orlando Magic,0.53805777321893744
+Oklahoma City Thunder,Boston Celtics,0.62778472003390484
+Charlotte Hornets,Chicago Bulls,0.70783062406824626
+Cleveland Cavaliers,Brooklyn Nets,0.95859129347687777
+Atlanta Hawks,Denver Nuggets,0.7065717550809999
+Golden State Warriors,Detroit Pistons,0.8258358331019835
+Los Angeles Clippers,Dallas Mavericks,0.73256931266415781
+Houston Rockets,Memphis Grizzlies,0.53274354659440637
+Washington Wizards,Milwaukee Bucks,0.61082219606516408
+Minnesota Timberwolves,Sacramento Kings,0.54375093849143608
+Miami Heat,New Orleans Pelicans,0.71042777751380481
+Orlando Magic,Los Angeles Lakers,0.82331935322876371
+Phoenix Suns,Philadelphia 76ers,0.78759665941827461
+San Antonio Spurs,Portland Trail Blazers,0.59042102323485035
+Toronto Raptors,Utah Jazz,0.6043196267393558
+Golden State Warriors,Cleveland Cavaliers,0.55448499248303162
+Los Angeles Clippers,Los Angeles Lakers,0.84574992102539293
+Boston Celtics,New York Knicks,0.68148361510838784
+Oklahoma City Thunder,Minnesota Timberwolves,0.88163058004384165
+San Antonio Spurs,Chicago Bulls,0.8678157862615945
+Charlotte Hornets,Brooklyn Nets,0.83046221105934204
+Chicago Bulls,Indiana Pacers,0.50414441412043043
+Cleveland Cavaliers,Detroit Pistons,0.73688239334875716
+Houston Rockets,Phoenix Suns,0.836513663042315
+Los Angeles Clippers,Denver Nuggets,0.82200436978784841
+Atlanta Hawks,Minnesota Timberwolves,0.70946532604608359
+Dallas Mavericks,New Orleans Pelicans,0.59549719083035701
+Orlando Magic,Memphis Grizzlies,0.58280990530927179
+Portland Trail Blazers,Toronto Raptors,0.60035781468049543
+Sacramento Kings,Philadelphia 76ers,0.86624653813596464
+Washington Wizards,Milwaukee Bucks,0.73057667843843288
+Boston Celtics,Memphis Grizzlies,0.76082065829489898
+Dallas Mavericks,Houston Rockets,0.58615919926464288
+Utah Jazz,Los Angeles Lakers,0.73627577852691806
+Oklahoma City Thunder,Miami Heat,0.61229148623675345
+Atlanta Hawks,New York Knicks,0.81445023285707741
+Chicago Bulls,Brooklyn Nets,0.85800156185256815
+Denver Nuggets,Minnesota Timberwolves,0.55507178521537792
+Detroit Pistons,Milwaukee Bucks,0.73964254838938392
+Golden State Warriors,Toronto Raptors,0.76350598939200132
+Los Angeles Clippers,New Orleans Pelicans,0.75217211246568105
+Charlotte Hornets,Orlando Magic,0.64043374365013395
+Portland Trail Blazers,Sacramento Kings,0.85942356986087431
+San Antonio Spurs,Phoenix Suns,0.95056568234642669
+Indiana Pacers,Washington Wizards,0.50609674736390342
+Charlotte Hornets,Miami Heat,0.5672383590410498
+Cleveland Cavaliers,Boston Celtics,0.76868068022289382
+Dallas Mavericks,Los Angeles Lakers,0.72674214590385455
+Oklahoma City Thunder,Memphis Grizzlies,0.79155499175951616
+Toronto Raptors,Phoenix Suns,0.83500517834271593
+Utah Jazz,Philadelphia 76ers,0.9247373970171785
+Atlanta Hawks,Detroit Pistons,0.64313490229704084
+Boston Celtics,Miami Heat,0.56720039886427842
+Denver Nuggets,Philadelphia 76ers,0.84786048069745046
+Golden State Warriors,Dallas Mavericks,0.88872300672208238
+Los Angeles Clippers,Houston Rockets,0.56688735031933768
+Indiana Pacers,Chicago Bulls,0.66420324382609586
+Minnesota Timberwolves,Milwaukee Bucks,0.58092580910532743
+New Orleans Pelicans,New York Knicks,0.58750132794184096
+San Antonio Spurs,Portland Trail Blazers,0.81136033811193198
+Washington Wizards,Brooklyn Nets,0.85293687525581763
+Chicago Bulls,Milwaukee Bucks,0.73856368133608086
+Cleveland Cavaliers,Charlotte Hornets,0.65559155706768868
+Houston Rockets,New York Knicks,0.76758299823156584
+Oklahoma City Thunder,Los Angeles Clippers,0.68025538946160968
+Sacramento Kings,Memphis Grizzlies,0.55426910659733375
+Utah Jazz,Phoenix Suns,0.8402986703848474
+San Antonio Spurs,Atlanta Hawks,0.71902302853318623
+Indiana Pacers,Orlando Magic,0.72306986078936519
+Toronto Raptors,Los Angeles Lakers,0.86806083531092426
+Miami Heat,Detroit Pistons,0.66754952553912139
+Portland Trail Blazers,Minnesota Timberwolves,0.6551358726323
+Utah Jazz,Brooklyn Nets,0.75061721196249076
+Charlotte Hornets,Chicago Bulls,0.53642040597219531
+Cleveland Cavaliers,New Orleans Pelicans,0.92327539045347429
+Golden State Warriors,Denver Nuggets,0.93086494229578087
+Houston Rockets,Washington Wizards,0.59767138971546863
+Los Angeles Clippers,Phoenix Suns,0.89897444008536653
+Oklahoma City Thunder,Milwaukee Bucks,0.84502454262635496
+New York Knicks,Orlando Magic,0.53805777321893744
+Boston Celtics,Utah Jazz,0.67537940007311503
+Dallas Mavericks,Washington Wizards,0.59634942259955404
+Denver Nuggets,Sacramento Kings,0.54722123009299828
+Detroit Pistons,Indiana Pacers,0.50554301387648404
+Memphis Grizzlies,Los Angeles Lakers,0.64614444567844065
+Minnesota Timberwolves,Philadelphia 76ers,0.74174946785279883
+Miami Heat,Phoenix Suns,0.77320249546957864
+San Antonio Spurs,Toronto Raptors,0.70525812311931091
+Oklahoma City Thunder,Charlotte Hornets,0.62774858546481771
+Cleveland Cavaliers,Chicago Bulls,0.86251556464798507
+Golden State Warriors,Portland Trail Blazers,0.85301013910603773
+Los Angeles Clippers,Memphis Grizzlies,0.79958764240894054
+New York Knicks,Milwaukee Bucks,0.60353721807419192
+Atlanta Hawks,Orlando Magic,0.64843206817250287
+Miami Heat,Sacramento Kings,0.66123691784005723
+Dallas Mavericks,Phoenix Suns,0.83576082352977998
+San Antonio Spurs,Denver Nuggets,0.8794007008246818
+Charlotte Hornets,Detroit Pistons,0.5350288154737286
+Oklahoma City Thunder,Houston Rockets,0.70047429279627638
+Indiana Pacers,Brooklyn Nets,0.87950100239219342
+Atlanta Hawks,New Orleans Pelicans,0.72255880284007568
+Portland Trail Blazers,Los Angeles Lakers,0.94752040363197132
+Toronto Raptors,Utah Jazz,0.7669773490924976
+Boston Celtics,Philadelphia 76ers,0.94307549205809826
+Cleveland Cavaliers,Brooklyn Nets,0.92261282541582523
+Golden State Warriors,Memphis Grizzlies,0.92083777518851417
+Miami Heat,Los Angeles Lakers,0.81591017106329489
+Milwaukee Bucks,New York Knicks,0.58617421086952615
+Houston Rockets,Orlando Magic,0.53554683722455132
+Los Angeles Clippers,Sacramento Kings,0.70714938867215138
+Washington Wizards,Minnesota Timberwolves,0.70644134527146574
+Boston Celtics,New Orleans Pelicans,0.8228940144239667
+Toronto Raptors,Chicago Bulls,0.62624949450782952
+Atlanta Hawks,Dallas Mavericks,0.530366729865552
+Indiana Pacers,New York Knicks,0.78900055884196751
+Utah Jazz,Minnesota Timberwolves,0.59167204331844814
+Oklahoma City Thunder,Denver Nuggets,0.88087344613291185
+San Antonio Spurs,Charlotte Hornets,0.77603088508642137
+Brooklyn Nets,Philadelphia 76ers,0.7256963704878121
+Los Angeles Clippers,Miami Heat,0.62174770662779144
+Orlando Magic,Los Angeles Lakers,0.64495667555232172
+Utah Jazz,Memphis Grizzlies,0.51973516626243432
+Washington Wizards,Milwaukee Bucks,0.61082219606516408
+Cleveland Cavaliers,Phoenix Suns,0.89480458099945548
+Portland Trail Blazers,Detroit Pistons,0.76186129395153146
+Golden State Warriors,Sacramento Kings,0.89184084205454361
+Toronto Raptors,Houston Rockets,0.75752196482260181
+Oklahoma City Thunder,Chicago Bulls,0.71387573932268622
+Dallas Mavericks,Minnesota Timberwolves,0.57989366428889799
+New York Knicks,New Orleans Pelicans,0.6286034380567681
+Atlanta Hawks,Brooklyn Nets,0.83532040911028937
+Golden State Warriors,Miami Heat,0.82736101564858733
+Charlotte Hornets,Houston Rockets,0.52029254731082553
+Portland Trail Blazers,Los Angeles Lakers,0.78541581063399346
+Detroit Pistons,Sacramento Kings,0.57637177612763923
+San Antonio Spurs,Milwaukee Bucks,0.91887365327499149
+Toronto Raptors,Boston Celtics,0.66994906424642553
+Cleveland Cavaliers,Utah Jazz,0.71965647475693628
+Washington Wizards,Chicago Bulls,0.61116038562191954
+Boston Celtics,Washington Wizards,0.67318026668798081
+Los Angeles Clippers,Orlando Magic,0.80041818685065513
+Houston Rockets,Minnesota Timberwolves,0.60421573549119278
+Oklahoma City Thunder,Memphis Grizzlies,0.86464990431896838
+New York Knicks,Philadelphia 76ers,0.69935371085843367
+Cleveland Cavaliers,Portland Trail Blazers,0.52804691097745282
+New Orleans Pelicans,Brooklyn Nets,0.57406239416704707
+Indiana Pacers,Denver Nuggets,0.66404359908067156
+Golden State Warriors,Detroit Pistons,0.87302268247164683
+Chicago Bulls,New York Knicks,0.53124233424052791
+Dallas Mavericks,Phoenix Suns,0.67167240260988614
+San Antonio Spurs,Los Angeles Lakers,0.96639610066715009
+Atlanta Hawks,Boston Celtics,0.55153998782436287
+Houston Rockets,Memphis Grizzlies,0.69642924743776091
+Miami Heat,Milwaukee Bucks,0.71155250337695031
+Oklahoma City Thunder,Minnesota Timberwolves,0.83565173992471709
+Charlotte Hornets,Philadelphia 76ers,0.89284632117248419
+Portland Trail Blazers,Orlando Magic,0.84474078725603396
+Cleveland Cavaliers,Sacramento Kings,0.82964499924868074
+Toronto Raptors,Brooklyn Nets,0.93395252374971127
+Utah Jazz,Detroit Pistons,0.58235744441442094
+Chicago Bulls,New Orleans Pelicans,0.7585087806355465
+Los Angeles Clippers,Los Angeles Lakers,0.93011130389146479
+San Antonio Spurs,Phoenix Suns,0.91638289626694081
+Utah Jazz,Orlando Magic,0.70338742988309932
+Washington Wizards,Philadelphia 76ers,0.91489288262980029
+Atlanta Hawks,Milwaukee Bucks,0.80022778959555618
+Houston Rockets,Brooklyn Nets,0.76025663265496268
+Dallas Mavericks,Minnesota Timberwolves,0.72678258997225786
+Detroit Pistons,Los Angeles Lakers,0.75546331295018143
+Memphis Grizzlies,Chicago Bulls,0.51827119075280259
+Oklahoma City Thunder,Sacramento Kings,0.81183440573495069
+Toronto Raptors,New York Knicks,0.87870781611045623
+Boston Celtics,Charlotte Hornets,0.56109757784343672
+Denver Nuggets,Orlando Magic,0.51821012049365645
+Golden State Warriors,Cleveland Cavaliers,0.65762682280322027
+Indiana Pacers,New Orleans Pelicans,0.79140985271325259
+Oklahoma City Thunder,Los Angeles Clippers,0.57351081931802028
+Milwaukee Bucks,Philadelphia 76ers,0.83672319699400688
+Atlanta Hawks,New York Knicks,0.68979011203704821
+Utah Jazz,Phoenix Suns,0.68228740231875051
+Washington Wizards,Portland Trail Blazers,0.50732026035441247
+Toronto Raptors,Brooklyn Nets,0.87643842651470005
+Chicago Bulls,Dallas Mavericks,0.59618751739092468
+Denver Nuggets,Los Angeles Lakers,0.61203318400088613
+Miami Heat,Houston Rockets,0.678351782007104
+San Antonio Spurs,Minnesota Timberwolves,0.90951712352874758
+Boston Celtics,New York Knicks,0.82076601610993249
+Charlotte Hornets,Portland Trail Blazers,0.61347946945324128
+Atlanta Hawks,Detroit Pistons,0.54370126925913764
+Golden State Warriors,Oklahoma City Thunder,0.68435869642313174
+Houston Rockets,Milwaukee Bucks,0.7508670465810765
+Orlando Magic,New Orleans Pelicans,0.50138135898204728
+Toronto Raptors,Philadelphia 76ers,0.92346400630729653
+Indiana Pacers,Sacramento Kings,0.62974271900657963
+Washington Wizards,Memphis Grizzlies,0.67363234680526651
+Cleveland Cavaliers,Phoenix Suns,0.9483861603950543
+Los Angeles Clippers,Minnesota Timberwolves,0.82306050269712561
+Miami Heat,Dallas Mavericks,0.69992330953834969
+Washington Wizards,New York Knicks,0.57132139877185373
+San Antonio Spurs,Denver Nuggets,0.90891993468323773
+Atlanta Hawks,Chicago Bulls,0.69896218544668698
+Toronto Raptors,Charlotte Hornets,0.53107188947859152
+Dallas Mavericks,Utah Jazz,0.59875739752659385
+Golden State Warriors,Houston Rockets,0.81716654854431447
+Indiana Pacers,Los Angeles Lakers,0.79432287739627605
+Memphis Grizzlies,Sacramento Kings,0.61475696039612926
+New Orleans Pelicans,Brooklyn Nets,0.73544901897638737
+Orlando Magic,Milwaukee Bucks,0.64730398599753947
+Portland Trail Blazers,Philadelphia 76ers,0.870339170710549
+Atlanta Hawks,Philadelphia 76ers,0.94075852555341644
+Boston Celtics,Portland Trail Blazers,0.61344280125411943
+Chicago Bulls,Sacramento Kings,0.7083520880935984
+Charlotte Hornets,Brooklyn Nets,0.8993933667142554
+Cleveland Cavaliers,San Antonio Spurs,0.51358691761881947
+Los Angeles Clippers,Denver Nuggets,0.73727101063018363
+Detroit Pistons,Washington Wizards,0.58337447868950576
+Houston Rockets,Memphis Grizzlies,0.53274354659440637
+Miami Heat,Milwaukee Bucks,0.81695390497250608
+New York Knicks,Phoenix Suns,0.72101402438110052
+Utah Jazz,Indiana Pacers,0.52728335006680216
+Dallas Mavericks,Los Angeles Lakers,0.88386366343802902
+Minnesota Timberwolves,Denver Nuggets,0.54982218565695862
+Golden State Warriors,Orlando Magic,0.88009179265742132
+Toronto Raptors,Phoenix Suns,0.91819339542288636
+Atlanta Hawks,Los Angeles Clippers,0.50382842642285797
+San Antonio Spurs,Brooklyn Nets,0.9388765958473605
+Charlotte Hornets,Washington Wizards,0.67321428692833341
+Detroit Pistons,Sacramento Kings,0.70950659206499855
+Indiana Pacers,New York Knicks,0.78900055884196751
+Golden State Warriors,Miami Heat,0.7511330757593333
+Houston Rockets,Milwaukee Bucks,0.62079800142048702
+Cleveland Cavaliers,New Orleans Pelicans,0.85957502413309617
+Oklahoma City Thunder,Utah Jazz,0.69457986775714686
+Utah Jazz,Denver Nuggets,0.58828611617610349
+Orlando Magic,Chicago Bulls,0.51545796955312395
+Los Angeles Clippers,Philadelphia 76ers,0.90954552538806055
+Minnesota Timberwolves,Phoenix Suns,0.54642452847519529
+San Antonio Spurs,Toronto Raptors,0.60791604580724456
+Boston Celtics,Washington Wizards,0.54569054570115405
+Boston Celtics,Houston Rockets,0.66383628884580492
+Miami Heat,Brooklyn Nets,0.82693894574227478
+Atlanta Hawks,Chicago Bulls,0.54508897307398474
+Golden State Warriors,Charlotte Hornets,0.76319564948390528
+Cleveland Cavaliers,Sacramento Kings,0.90296199487667084
+Dallas Mavericks,New York Knicks,0.76660130368186064
+Toronto Raptors,Memphis Grizzlies,0.71833179003040071
+Milwaukee Bucks,Philadelphia 76ers,0.83672319699400688
+Oklahoma City Thunder,New Orleans Pelicans,0.84430637971713418
+Portland Trail Blazers,Los Angeles Lakers,0.94752040363197132
+Denver Nuggets,Phoenix Suns,0.7047131703352959
+Indiana Pacers,Minnesota Timberwolves,0.6671589954770758
+Oklahoma City Thunder,Dallas Mavericks,0.81433659324226193
+Utah Jazz,Los Angeles Lakers,0.88725174913423976
+Atlanta Hawks,Washington Wizards,0.66379419154971597
+Boston Celtics,Orlando Magic,0.76176399240342352
+Miami Heat,Chicago Bulls,0.53024302110768606
+Cleveland Cavaliers,Brooklyn Nets,0.95859129347687777
+Indiana Pacers,Sacramento Kings,0.74579645013774643
+San Antonio Spurs,New Orleans Pelicans,0.88747104650220987
+Charlotte Hornets,New York Knicks,0.68227165835499348
+Houston Rockets,Philadelphia 76ers,0.84360913252046577
+Portland Trail Blazers,Memphis Grizzlies,0.8440587534577183
+Toronto Raptors,Milwaukee Bucks,0.86861619572186999
+Charlotte Hornets,Sacramento Kings,0.78229763114562512
+Golden State Warriors,Los Angeles Clippers,0.79482691002265327
+Miami Heat,Detroit Pistons,0.66754952553912139
+Boston Celtics,Milwaukee Bucks,0.71588153536700228
+Minnesota Timberwolves,Brooklyn Nets,0.74778778008405611
+Denver Nuggets,Phoenix Suns,0.54821711291698993
+Utah Jazz,Memphis Grizzlies,0.70230327810496807
+Atlanta Hawks,New York Knicks,0.81445023285707741
+Chicago Bulls,Philadelphia 76ers,0.91802893248326423
+Cleveland Cavaliers,Oklahoma City Thunder,0.60561122201166639
+Indiana Pacers,Houston Rockets,0.61722892473703383
+Washington Wizards,New Orleans Pelicans,0.60952024048044051
+Golden State Warriors,Portland Trail Blazers,0.65449933394158488
+San Antonio Spurs,Dallas Mavericks,0.85547803092278751
+Toronto Raptors,Orlando Magic,0.83494389575597383
+Boston Celtics,Detroit Pistons,0.65279605696712495
+Cleveland Cavaliers,Dallas Mavericks,0.7263518819768946
+Miami Heat,Brooklyn Nets,0.90517695030221146
+Minnesota Timberwolves,Orlando Magic,0.51471466234025209
+Sacramento Kings,Philadelphia 76ers,0.74778174439968947
+Memphis Grizzlies,Phoenix Suns,0.58412670088408003
+Houston Rockets,Sacramento Kings,0.72154118160007097
+Denver Nuggets,Los Angeles Lakers,0.61203318400088613
+Portland Trail Blazers,Charlotte Hornets,0.68507126500944215
+San Antonio Spurs,Oklahoma City Thunder,0.61641082408498515
+Toronto Raptors,New Orleans Pelicans,0.88024825689167174
+Washington Wizards,New York Knicks,0.74819749453833606
+Toronto Raptors,Boston Celtics,0.53111039888771416
+New York Knicks,Brooklyn Nets,0.57761207468401121
+Cleveland Cavaliers,Minnesota Timberwolves,0.90570732705646206
+Dallas Mavericks,Philadelphia 76ers,0.9223772063421577
+Denver Nuggets,Memphis Grizzlies,0.51691398086105755
+Detroit Pistons,New Orleans Pelicans,0.75953213871950076
+Golden State Warriors,Charlotte Hornets,0.82378697751172336
+Miami Heat,Atlanta Hawks,0.568683256553567
+Oklahoma City Thunder,Chicago Bulls,0.82948651474950796
+Indiana Pacers,Orlando Magic,0.60222127827757599
+Los Angeles Clippers,Phoenix Suns,0.80833871830146509
+Utah Jazz,Milwaukee Bucks,0.75605668525263015
+Atlanta Hawks,Houston Rockets,0.52899789288353416
+Golden State Warriors,Los Angeles Clippers,0.71988670003579358
+San Antonio Spurs,Philadelphia 76ers,0.97821455227817478
+Washington Wizards,Los Angeles Lakers,0.87317648163179162
+Boston Celtics,Los Angeles Lakers,0.9138727302448284
+Indiana Pacers,Brooklyn Nets,0.80633797001018426
+Denver Nuggets,Milwaukee Bucks,0.58432949733325268
+Detroit Pistons,Minnesota Timberwolves,0.71600364906521807
+Houston Rockets,Chicago Bulls,0.63596279723715798
+Oklahoma City Thunder,Memphis Grizzlies,0.86464990431896838
+Toronto Raptors,Orlando Magic,0.72060558245032424
+Portland Trail Blazers,Dallas Mavericks,0.78796815802493614
+Sacramento Kings,Phoenix Suns,0.73499146664387771
+Atlanta Hawks,Orlando Magic,0.75399228197991774
+Indiana Pacers,Detroit Pistons,0.60556750262156533
+Miami Heat,Philadelphia 76ers,0.94650512982558377
+Minnesota Timberwolves,Memphis Grizzlies,0.51341794876960645
+Cleveland Cavaliers,New York Knicks,0.83939226682969104
+Milwaukee Bucks,Phoenix Suns,0.51670549738843952
+Golden State Warriors,Sacramento Kings,0.89184084205454361
+San Antonio Spurs,Denver Nuggets,0.90891993468323773
+Charlotte Hornets,Utah Jazz,0.51331590682623018
+Washington Wizards,New Orleans Pelicans,0.7509256177811976
+Boston Celtics,Los Angeles Clippers,0.51441344508101383
+Toronto Raptors,Brooklyn Nets,0.87643842651470005
+Oklahoma City Thunder,Portland Trail Blazers,0.76116607573826667
+Atlanta Hawks,Utah Jazz,0.66602514922518785
+Dallas Mavericks,Denver Nuggets,0.57647997998408895
+Detroit Pistons,Philadelphia 76ers,0.9184489774169361
+Oklahoma City Thunder,Indiana Pacers,0.67378608012770735
+San Antonio Spurs,Memphis Grizzlies,0.84668889573957429
+Miami Heat,Minnesota Timberwolves,0.6970018684937539
+New Orleans Pelicans,Phoenix Suns,0.688141626999482
+New York Knicks,Los Angeles Lakers,0.79445908365733897
+Chicago Bulls,Sacramento Kings,0.51362976543308081
+Toronto Raptors,Los Angeles Clippers,0.62629946628456512
+Cleveland Cavaliers,Washington Wizards,0.74580990591350171
+Charlotte Hornets,Brooklyn Nets,0.8993933667142554
+Dallas Mavericks,Portland Trail Blazers,0.53232483986259016
+Houston Rockets,Orlando Magic,0.69752557793691983
+Atlanta Hawks,Denver Nuggets,0.77921469481237948
+Washington Wizards,Brooklyn Nets,0.75248686444077451
+Detroit Pistons,Los Angeles Lakers,0.87824367221898736
+Golden State Warriors,Chicago Bulls,0.89855919453509892
+Cleveland Cavaliers,Indiana Pacers,0.69983215332012927
+Memphis Grizzlies,Phoenix Suns,0.75909911180655543
+Miami Heat,Milwaukee Bucks,0.71155250337695031
+Toronto Raptors,Minnesota Timberwolves,0.77348618686105142
+Utah Jazz,New Orleans Pelicans,0.607134476150752
+Los Angeles Clippers,New York Knicks,0.72155320358312203
+San Antonio Spurs,Philadelphia 76ers,0.96313862322455035
+Boston Celtics,Sacramento Kings,0.66596659372269618
+Charlotte Hornets,Houston Rockets,0.66387079608197386
+Dallas Mavericks,Utah Jazz,0.59875739752659385
+Oklahoma City Thunder,Cleveland Cavaliers,0.51334973649908533
+Orlando Magic,Philadelphia 76ers,0.87916593822203581
+Portland Trail Blazers,Boston Celtics,0.68585452372989986
+Miami Heat,Brooklyn Nets,0.82693894574227478
+San Antonio Spurs,Detroit Pistons,0.7829987185293199
+Golden State Warriors,Memphis Grizzlies,0.87889781747594531
+Milwaukee Bucks,Los Angeles Lakers,0.76647111437811144
+Minnesota Timberwolves,New Orleans Pelicans,0.60648951934181106
+New York Knicks,Denver Nuggets,0.57287791258578935
+Chicago Bulls,Phoenix Suns,0.64844357552849097
+Atlanta Hawks,Sacramento Kings,0.6744844639505051
+Indiana Pacers,Washington Wizards,0.50609674736390342
+Charlotte Hornets,Los Angeles Clippers,0.51445207175874241
+Cleveland Cavaliers,Denver Nuggets,0.90508761744705923
+Dallas Mavericks,Orlando Magic,0.69636502611216966
+Houston Rockets,Phoenix Suns,0.836513663042315
+Indiana Pacers,Milwaukee Bucks,0.77337020151523184
+Golden State Warriors,Oklahoma City Thunder,0.61613113446271495
+Miami Heat,Philadelphia 76ers,0.89044847527836912
+Boston Celtics,Utah Jazz,0.51240829117310061
+Chicago Bulls,Minnesota Timberwolves,0.55447857154478597
+San Antonio Spurs,New York Knicks,0.87069454956125791
+Sacramento Kings,New Orleans Pelicans,0.64493072342729041
+Toronto Raptors,Detroit Pistons,0.7483923680353517
+Memphis Grizzlies,Brooklyn Nets,0.66314481752446186
+Charlotte Hornets,Philadelphia 76ers,0.94308379296129152
+Boston Celtics,Dallas Mavericks,0.520757224947338
+Golden State Warriors,Denver Nuggets,0.90550424412662567
+San Antonio Spurs,Indiana Pacers,0.75024124068702602
+Miami Heat,Orlando Magic,0.77349378208196362
+Detroit Pistons,Milwaukee Bucks,0.6322825618885658
+Phoenix Suns,New Orleans Pelicans,0.50978819743147796
+Portland Trail Blazers,Atlanta Hawks,0.67749191494374861
+Los Angeles Clippers,Utah Jazz,0.56001530648411912
+Oklahoma City Thunder,Washington Wizards,0.72216955863718157
+Toronto Raptors,Chicago Bulls,0.62624949450782952
+Sacramento Kings,Los Angeles Lakers,0.61783441752594848
+Cleveland Cavaliers,Minnesota Timberwolves,0.85161997156769997
+Boston Celtics,Philadelphia 76ers,0.94307549205809826
+Milwaukee Bucks,Brooklyn Nets,0.59975632142523294
+Cleveland Cavaliers,Indiana Pacers,0.7957209841465479
+Denver Nuggets,Minnesota Timberwolves,0.55507178521537792
+Detroit Pistons,Dallas Mavericks,0.59753375683126853
+Golden State Warriors,Sacramento Kings,0.92927150581385465
+Miami Heat,Houston Rockets,0.51409492410284297
+Los Angeles Clippers,Atlanta Hawks,0.60760254927597113
+Memphis Grizzlies,New Orleans Pelicans,0.67359275370792648
+Oklahoma City Thunder,New York Knicks,0.9019270368250476
+San Antonio Spurs,Orlando Magic,0.84814555965782357
+Phoenix Suns,Los Angeles Lakers,0.70369255229570149
+Toronto Raptors,Charlotte Hornets,0.66914527893858078
+Utah Jazz,Portland Trail Blazers,0.54063846901996893
+Boston Celtics,Chicago Bulls,0.53551688932223174
+Indiana Pacers,Washington Wizards,0.62714075207665543
+Cleveland Cavaliers,New York Knicks,0.9222395399072193
+Charlotte Hornets,Detroit Pistons,0.5350288154737286
+Golden State Warriors,Los Angeles Clippers,0.79482691002265327
+Houston Rockets,New Orleans Pelicans,0.6195086302593511
+Portland Trail Blazers,Orlando Magic,0.58929645957797328
+Sacramento Kings,Denver Nuggets,0.59005736446626633
+Atlanta Hawks,Miami Heat,0.55677461810601325
+Chicago Bulls,Phoenix Suns,0.82746806061779987
+Denver Nuggets,Brooklyn Nets,0.75041847623980995
+Indiana Pacers,Memphis Grizzlies,0.72202922001982373
+San Antonio Spurs,Los Angeles Clippers,0.66166655723209644
+Utah Jazz,Milwaukee Bucks,0.60843927628099026
+Dallas Mavericks,Minnesota Timberwolves,0.57989366428889799
+Oklahoma City Thunder,Los Angeles Lakers,0.95517554121412163
+Washington Wizards,Philadelphia 76ers,0.83796496637162976
+Toronto Raptors,Boston Celtics,0.66994906424642553
+Cleveland Cavaliers,Chicago Bulls,0.86251556464798507
+Dallas Mavericks,New Orleans Pelicans,0.76919154331874329
+Golden State Warriors,Brooklyn Nets,0.97031411924633537
+Houston Rockets,Minnesota Timberwolves,0.72787231312282641
+Miami Heat,Indiana Pacers,0.61630786131966375
+New York Knicks,Philadelphia 76ers,0.85785305791612398
+Atlanta Hawks,Orlando Magic,0.64843206817250287
+Charlotte Hornets,Sacramento Kings,0.66677425575640181
+Denver Nuggets,Memphis Grizzlies,0.51691398086105755
+Boston Celtics,Detroit Pistons,0.53412494213749317
+Los Angeles Clippers,Charlotte Hornets,0.61589317242927655
+San Antonio Spurs,Los Angeles Lakers,0.93441558602706776
+Milwaukee Bucks,Phoenix Suns,0.68696577548258309
+Oklahoma City Thunder,New Orleans Pelicans,0.90320507163500163
+Toronto Raptors,Portland Trail Blazers,0.71514627354413363
+Washington Wizards,Utah Jazz,0.57446536071868248
+Boston Celtics,Atlanta Hawks,0.55248361603776008
+Cleveland Cavaliers,Milwaukee Bucks,0.91542117963569802
+Miami Heat,Dallas Mavericks,0.51546740165081206
+Houston Rockets,Indiana Pacers,0.52031464467994903
+Toronto Raptors,New York Knicks,0.75665945842422488
+Golden State Warriors,Philadelphia 76ers,0.97170048396061726
+Sacramento Kings,Minnesota Timberwolves,0.59180632562884217
+Chicago Bulls,Denver Nuggets,0.71338753542717015
+Detroit Pistons,Portland Trail Blazers,0.51895198994829728
+Charlotte Hornets,Los Angeles Lakers,0.81960898626506451
+Memphis Grizzlies,Phoenix Suns,0.75909911180655543
+Oklahoma City Thunder,Utah Jazz,0.80688471329937539
+Golden State Warriors,Washington Wizards,0.83243151547654914
+Atlanta Hawks,Dallas Mavericks,0.67673485538485578
+Cleveland Cavaliers,Boston Celtics,0.65562647158577492
+Los Angeles Clippers,Houston Rockets,0.7123802218296571
+Miami Heat,Philadelphia 76ers,0.94650512982558377
+Milwaukee Bucks,Denver Nuggets,0.53247362628319517
+Detroit Pistons,New Orleans Pelicans,0.6310090301467699
+Orlando Magic,New York Knicks,0.66789527361445256
+Sacramento Kings,Brooklyn Nets,0.77748997437212919
+San Antonio Spurs,Indiana Pacers,0.80300811620773238
+Toronto Raptors,Washington Wizards,0.76518299739981954
+Utah Jazz,Minnesota Timberwolves,0.73337086044010236
+Golden State Warriors,Chicago Bulls,0.82663909075196451
+Charlotte Hornets,Phoenix Suns,0.77752543344099778
+Portland Trail Blazers,Oklahoma City Thunder,0.50220845437647843
+Cleveland Cavaliers,Atlanta Hawks,0.66512553571420452
+Dallas Mavericks,Memphis Grizzlies,0.69526632686004941
+Boston Celtics,Los Angeles Lakers,0.8190712426599831
+Los Angeles Clippers,Milwaukee Bucks,0.75319102790871195
+San Antonio Spurs,New Orleans Pelicans,0.88747104650220987
+Miami Heat,Orlando Magic,0.63469850110873205
+New York Knicks,Philadelphia 76ers,0.69935371085843367
+Oklahoma City Thunder,Phoenix Suns,0.88284441916656975
+Utah Jazz,Brooklyn Nets,0.8689211956658015
+Toronto Raptors,Washington Wizards,0.63578743119649461
+Los Angeles Clippers,Chicago Bulls,0.58270509780797286
+Charlotte Hornets,Denver Nuggets,0.69928271613369364
+Houston Rockets,Memphis Grizzlies,0.69642924743776091
+Cleveland Cavaliers,Miami Heat,0.64062873129361508
+Toronto Raptors,Milwaukee Bucks,0.78549424383451216
+Detroit Pistons,Philadelphia 76ers,0.84997636629970608
+Portland Trail Blazers,Brooklyn Nets,0.93830698490291475
+San Antonio Spurs,Minnesota Timberwolves,0.90951712352874758
+Atlanta Hawks,Indiana Pacers,0.59043890782045061
+Oklahoma City Thunder,Dallas Mavericks,0.70162586799243754
+New Orleans Pelicans,Los Angeles Lakers,0.55557917900792231
+Golden State Warriors,New York Knicks,0.89846495113461911
+Boston Celtics,Phoenix Suns,0.77689638781263792
+Utah Jazz,Sacramento Kings,0.55147487733487743
+Washington Wizards,Orlando Magic,0.67477255971285932
+Golden State Warriors,Atlanta Hawks,0.7707923293449237
+Charlotte Hornets,Indiana Pacers,0.60067789757231005
+Cleveland Cavaliers,Miami Heat,0.77242654379713738
+Denver Nuggets,Sacramento Kings,0.54722123009299828
+Detroit Pistons,Chicago Bulls,0.62216638436410809
+Los Angeles Clippers,Boston Celtics,0.61675223282947411
+Memphis Grizzlies,Brooklyn Nets,0.79878992571557028
+Orlando Magic,New York Knicks,0.66789527361445256
+Milwaukee Bucks,Philadelphia 76ers,0.71822898904086097
+San Antonio Spurs,Houston Rockets,0.84257370159713851
+Utah Jazz,New Orleans Pelicans,0.77507366627784968
+Dallas Mavericks,Los Angeles Lakers,0.88386366343802902
+Oklahoma City Thunder,Portland Trail Blazers,0.76116607573826667
+Washington Wizards,Phoenix Suns,0.68445397956989096
+Atlanta Hawks,Brooklyn Nets,0.89548098002268461
+Washington Wizards,Denver Nuggets,0.59070917926824318
+Golden State Warriors,Boston Celtics,0.82431371165080081
+Houston Rockets,Utah Jazz,0.60007676708229429
+Indiana Pacers,Detroit Pistons,0.60556750262156533
+Miami Heat,Charlotte Hornets,0.57722401255856337
+Milwaukee Bucks,New York Knicks,0.58617421086952615
+Los Angeles Clippers,Minnesota Timberwolves,0.73997325777824896
+Toronto Raptors,New Orleans Pelicans,0.78457054387741854
+Orlando Magic,Chicago Bulls,0.51545796955312395
+San Antonio Spurs,Sacramento Kings,0.90687130811336092
+Cleveland Cavaliers,Detroit Pistons,0.73688239334875716
+Los Angeles Clippers,Memphis Grizzlies,0.68003429898998857
+San Antonio Spurs,Oklahoma City Thunder,0.54983126510392477
+Phoenix Suns,Los Angeles Lakers,0.70369255229570149
+Portland Trail Blazers,Philadelphia 76ers,0.96574208425459707
+Toronto Raptors,Atlanta Hawks,0.54164288960560647
+Chicago Bulls,Houston Rockets,0.571721788908509
+Charlotte Hornets,Orlando Magic,0.76179205446824194
+Dallas Mavericks,Brooklyn Nets,0.86506604787446495
+Boston Celtics,Denver Nuggets,0.69851822085748849
+Indiana Pacers,Milwaukee Bucks,0.68248991140109139
+Golden State Warriors,Minnesota Timberwolves,0.90669514232801984
+Washington Wizards,Sacramento Kings,0.5539503212008815
+Charlotte Hornets,New Orleans Pelicans,0.8229165498004537
+Dallas Mavericks,Phoenix Suns,0.83576082352977998
+Detroit Pistons,New York Knicks,0.75686776143681767
+Los Angeles Clippers,Philadelphia 76ers,0.95408476202297587
+Atlanta Hawks,Memphis Grizzlies,0.64585956833883973
+Toronto Raptors,Miami Heat,0.51470383399006436
+Milwaukee Bucks,Minnesota Timberwolves,0.53427435344848262
+Oklahoma City Thunder,Utah Jazz,0.80688471329937539
+Cleveland Cavaliers,Orlando Magic,0.81255973709423668
+Portland Trail Blazers,Washington Wizards,0.77801969693554596
+Sacramento Kings,Denver Nuggets,0.59005736446626633
+Golden State Warriors,San Antonio Spurs,0.54323384915724993
+Boston Celtics,Chicago Bulls,0.70779864341293874
+New York Knicks,Brooklyn Nets,0.57761207468401121
+Cleveland Cavaliers,Houston Rockets,0.72525836848366021
+Indiana Pacers,Miami Heat,0.51694437677956062
+Los Angeles Lakers,Philadelphia 76ers,0.74041027782254176
+Portland Trail Blazers,Phoenix Suns,0.73790616895637895
+Charlotte Hornets,Chicago Bulls,0.70783062406824626
+Denver Nuggets,Los Angeles Lakers,0.78114698137635563
+Memphis Grizzlies,Milwaukee Bucks,0.64987168151312291
+Washington Wizards,Minnesota Timberwolves,0.5940889287558595
+Sacramento Kings,Orlando Magic,0.55555119583275692
+San Antonio Spurs,Atlanta Hawks,0.76990539197745433
+Toronto Raptors,Dallas Mavericks,0.77554078448582786
+Los Angeles Clippers,Utah Jazz,0.56001530648411912
+Oklahoma City Thunder,Brooklyn Nets,0.91350871039582693
+Cleveland Cavaliers,Detroit Pistons,0.82962591801424312
+Golden State Warriors,Philadelphia 76ers,0.98376185924222814
+Portland Trail Blazers,New Orleans Pelicans,0.66953733644504676
+Indiana Pacers,New York Knicks,0.64604812110519394
+Boston Celtics,Minnesota Timberwolves,0.78762805230867527
+Chicago Bulls,Memphis Grizzlies,0.68257399451309508
+Detroit Pistons,Utah Jazz,0.58580609611677681
+Houston Rockets,Los Angeles Lakers,0.88442650022690805
+Indiana Pacers,Charlotte Hornets,0.51074417318666931
+Los Angeles Clippers,Milwaukee Bucks,0.83978234541833752
+Miami Heat,New Orleans Pelicans,0.83227669581404118
+Sacramento Kings,Phoenix Suns,0.55427764576972027
+San Antonio Spurs,Portland Trail Blazers,0.81136033811193198
+Washington Wizards,Dallas Mavericks,0.58628735350249395
+Atlanta Hawks,Memphis Grizzlies,0.75302815156458791
+Cleveland Cavaliers,Utah Jazz,0.84346561837309086
+Los Angeles Clippers,Denver Nuggets,0.73727101063018363
+Golden State Warriors,Orlando Magic,0.92121534789012094
+New York Knicks,Brooklyn Nets,0.76503747779873343
+Oklahoma City Thunder,Toronto Raptors,0.51599973414250755
+Boston Celtics,Brooklyn Nets,0.82995010822702553
+Toronto Raptors,Detroit Pistons,0.62493901751659853
+Milwaukee Bucks,Los Angeles Lakers,0.58157539222255705
+Miami Heat,Minnesota Timberwolves,0.79842137851274841
+Houston Rockets,New Orleans Pelicans,0.6195086302593511
+Dallas Mavericks,Philadelphia 76ers,0.82985580787735858
+Orlando Magic,Phoenix Suns,0.58286514943908929
+Washington Wizards,Chicago Bulls,0.61116038562191954
+Atlanta Hawks,Portland Trail Blazers,0.60335197310168764
+Chicago Bulls,Utah Jazz,0.58444790938562075
+Charlotte Hornets,Washington Wizards,0.67321428692833341
+Houston Rockets,Denver Nuggets,0.60086365565407629
+Golden State Warriors,Milwaukee Bucks,0.9385824484415014
+Cleveland Cavaliers,Los Angeles Clippers,0.60284397725080829
+San Antonio Spurs,Memphis Grizzlies,0.84668889573957429
+Oklahoma City Thunder,Sacramento Kings,0.87827846253357333
+Dallas Mavericks,Brooklyn Nets,0.74141994511031861
+Detroit Pistons,Phoenix Suns,0.82826535577352112
+Cleveland Cavaliers,Los Angeles Lakers,0.9170696720566105
+Miami Heat,Portland Trail Blazers,0.62891791051481893
+New Orleans Pelicans,Minnesota Timberwolves,0.53563605769188738
+Boston Celtics,Philadelphia 76ers,0.89249826195298321
+San Antonio Spurs,Sacramento Kings,0.90687130811336092
+Toronto Raptors,Indiana Pacers,0.70408773428589821
+Boston Celtics,Washington Wizards,0.67318026668798081
+Charlotte Hornets,Atlanta Hawks,0.55252184866815557
+Houston Rockets,Denver Nuggets,0.72643685588188389
+Indiana Pacers,Utah Jazz,0.62947916806542148
+Los Angeles Clippers,New York Knicks,0.85171060294432288
+Golden State Warriors,Oklahoma City Thunder,0.61613113446271495
+Orlando Magic,Philadelphia 76ers,0.87916593822203581
+Detroit Pistons,Brooklyn Nets,0.7690885604410993
+Golden State Warriors,Dallas Mavericks,0.81798605837326288
+Los Angeles Clippers,Los Angeles Lakers,0.84574992102539293
+Miami Heat,Phoenix Suns,0.88340899993848387
+San Antonio Spurs,Minnesota Timberwolves,0.88087729532754044
+Memphis Grizzlies,New Orleans Pelicans,0.50267907824714997
+Portland Trail Blazers,Milwaukee Bucks,0.87670959255594594
+Toronto Raptors,Chicago Bulls,0.79305189898754769
+Boston Celtics,Indiana Pacers,0.60064080549792487
+Chicago Bulls,Detroit Pistons,0.55966303462334188
+Cleveland Cavaliers,Denver Nuggets,0.84984253623539474
+Oklahoma City Thunder,Philadelphia 76ers,0.97082109889196866
+Charlotte Hornets,Orlando Magic,0.64043374365013395
+Sacramento Kings,Milwaukee Bucks,0.62030083895480914
+Utah Jazz,New York Knicks,0.77252991710341834
+Atlanta Hawks,Washington Wizards,0.55522710246932216
+Brooklyn Nets,Phoenix Suns,0.53116495980705125
+Los Angeles Clippers,Dallas Mavericks,0.56823594728950388
+Toronto Raptors,Miami Heat,0.51470383399006436
+Portland Trail Blazers,New York Knicks,0.88626095860112541
+San Antonio Spurs,Memphis Grizzlies,0.89606529853229722
+Boston Celtics,Phoenix Suns,0.8764621510796492
+Chicago Bulls,Philadelphia 76ers,0.91802893248326423
+Cleveland Cavaliers,Charlotte Hornets,0.65559155706768868
+Golden State Warriors,Sacramento Kings,0.92927150581385465
+Houston Rockets,New Orleans Pelicans,0.7701656094574626
+Indiana Pacers,Denver Nuggets,0.75041319358888692
+Minnesota Timberwolves,Los Angeles Lakers,0.6103138215175119
+Atlanta Hawks,Milwaukee Bucks,0.72365473883665454
+Detroit Pistons,Orlando Magic,0.54773232313860243
+Washington Wizards,Brooklyn Nets,0.85293687525581763
+Cleveland Cavaliers,Washington Wizards,0.84213902551699205
+Toronto Raptors,Dallas Mavericks,0.61228558346088502
+Los Angeles Clippers,Utah Jazz,0.72295210893736284
+Portland Trail Blazers,Minnesota Timberwolves,0.86321406705281711
+San Antonio Spurs,New York Knicks,0.92543636097853177
+Atlanta Hawks,Brooklyn Nets,0.89548098002268461
+Boston Celtics,Miami Heat,0.56720039886427842
+Charlotte Hornets,Phoenix Suns,0.87647889346291685
+Denver Nuggets,New Orleans Pelicans,0.60982503203802252
+Golden State Warriors,Memphis Grizzlies,0.92083777518851417
+Oklahoma City Thunder,Houston Rockets,0.70047429279627638
+Indiana Pacers,Philadelphia 76ers,0.93116896182131603
+Los Angeles Clippers,Sacramento Kings,0.81839140104827346
+Portland Trail Blazers,Los Angeles Lakers,0.78541581063399346
+Chicago Bulls,Milwaukee Bucks,0.57166743218208982
+Oklahoma City Thunder,Dallas Mavericks,0.70162586799243754
+Detroit Pistons,New York Knicks,0.59351041261497983
+Sacramento Kings,Memphis Grizzlies,0.55426910659733375
+San Antonio Spurs,Cleveland Cavaliers,0.58739387104693663
+Toronto Raptors,Orlando Magic,0.83494389575597383
+Utah Jazz,New Orleans Pelicans,0.77507366627784968
+Atlanta Hawks,Phoenix Suns,0.8718024247060292
+Brooklyn Nets,Philadelphia 76ers,0.7256963704878121
+Charlotte Hornets,Milwaukee Bucks,0.80693700087768128
+Miami Heat,Detroit Pistons,0.52884917430667533
+Golden State Warriors,Houston Rockets,0.81716654854431447
+Indiana Pacers,Minnesota Timberwolves,0.75176583189061119
+Washington Wizards,Los Angeles Lakers,0.73821545206413453
+Portland Trail Blazers,Denver Nuggets,0.86235752546400157
+Boston Celtics,Milwaukee Bucks,0.80691290911083446
+Los Angeles Clippers,Washington Wizards,0.7209420936945905
+Indiana Pacers,Memphis Grizzlies,0.59951948043603664
+Dallas Mavericks,New Orleans Pelicans,0.59549719083035701
+Miami Heat,New York Knicks,0.67686704396918262
+Oklahoma City Thunder,Orlando Magic,0.79340768390260563
+Atlanta Hawks,Philadelphia 76ers,0.89614043626040374
+Utah Jazz,Sacramento Kings,0.55147487733487743
+Golden State Warriors,San Antonio Spurs,0.54323384915724993
+Toronto Raptors,Charlotte Hornets,0.66914527893858078
+Cleveland Cavaliers,Chicago Bulls,0.73796573697732204
+Detroit Pistons,Brooklyn Nets,0.85868185481498471
+Minnesota Timberwolves,Los Angeles Lakers,0.77874467978895845
+Los Angeles Clippers,Phoenix Suns,0.80833871830146509
+Portland Trail Blazers,Houston Rockets,0.77065194058578756
+Boston Celtics,Orlando Magic,0.76176399240342352
+Charlotte Hornets,Denver Nuggets,0.7864412817352433
+Cleveland Cavaliers,Philadelphia 76ers,0.9772248410810932
+Golden State Warriors,Houston Rockets,0.878365049874264
+Dallas Mavericks,Memphis Grizzlies,0.50760860105348937
+Miami Heat,New York Knicks,0.83023817672125744
+Detroit Pistons,Milwaukee Bucks,0.6322825618885658
+New Orleans Pelicans,Sacramento Kings,0.52773434327463464
+San Antonio Spurs,Oklahoma City Thunder,0.54983126510392477
+Toronto Raptors,Indiana Pacers,0.70408773428589821
+Utah Jazz,Washington Wizards,0.60437079066550747
+Orlando Magic,Brooklyn Nets,0.66198425982965325
+Atlanta Hawks,Chicago Bulls,0.54508897307398474
+Los Angeles Clippers,Los Angeles Lakers,0.93011130389146479
+Minnesota Timberwolves,Sacramento Kings,0.54375093849143608
+Portland Trail Blazers,Phoenix Suns,0.92350174274297636
+Atlanta Hawks,Brooklyn Nets,0.83532040911028937
+Cleveland Cavaliers,Indiana Pacers,0.7957209841465479
+Golden State Warriors,Washington Wizards,0.88279878456093785
+Memphis Grizzlies,Los Angeles Lakers,0.64614444567844065
+Miami Heat,Denver Nuggets,0.7972544048395962
+Dallas Mavericks,Milwaukee Bucks,0.59681497438936582
+Chicago Bulls,New Orleans Pelicans,0.57032662996023065
+Boston Celtics,New York Knicks,0.68148361510838784
+Oklahoma City Thunder,Charlotte Hornets,0.71968379405623417
+Houston Rockets,Phoenix Suns,0.6934894793119587
+San Antonio Spurs,Utah Jazz,0.84937198803068947
+Toronto Raptors,Philadelphia 76ers,0.96324822019283995
+Cleveland Cavaliers,Orlando Magic,0.89225656755855398
+Golden State Warriors,Minnesota Timberwolves,0.93132911434283849
+Toronto Raptors,Indiana Pacers,0.58108693508575793
+New Orleans Pelicans,Denver Nuggets,0.53383600172261636
+Chicago Bulls,New York Knicks,0.53124233424052791
+Oklahoma City Thunder,Milwaukee Bucks,0.89353320697389826
+Brooklyn Nets,Philadelphia 76ers,0.54374299920995584
+Dallas Mavericks,Sacramento Kings,0.53943955818771194
+San Antonio Spurs,Memphis Grizzlies,0.89606529853229722
+Utah Jazz,Portland Trail Blazers,0.54063846901996893
+Charlotte Hornets,Washington Wizards,0.54659102807455473
+Cleveland Cavaliers,Boston Celtics,0.65562647158577492
+Charlotte Hornets,Miami Heat,0.5672383590410498
+Toronto Raptors,Detroit Pistons,0.62493901751659853
+Houston Rockets,Denver Nuggets,0.72643685588188389
+Los Angeles Clippers,Dallas Mavericks,0.73256931266415781
+Oklahoma City Thunder,Memphis Grizzlies,0.79155499175951616
+Golden State Warriors,Phoenix Suns,0.93507269762812539
+San Antonio Spurs,Los Angeles Lakers,0.96639610066715009
+Atlanta Hawks,Boston Celtics,0.55153998782436287
+Indiana Pacers,Milwaukee Bucks,0.77337020151523184
+Washington Wizards,New York Knicks,0.57132139877185373
+Orlando Magic,Brooklyn Nets,0.79697314958784804
+Chicago Bulls,Philadelphia 76ers,0.81473136912191757
+Portland Trail Blazers,Minnesota Timberwolves,0.86321406705281711
+Cleveland Cavaliers,Atlanta Hawks,0.76175702824250724
+San Antonio Spurs,Dallas Mavericks,0.77374718208163396
+Denver Nuggets,New Orleans Pelicans,0.60982503203802252
+Houston Rockets,Detroit Pistons,0.57554707373985836
+Sacramento Kings,Los Angeles Lakers,0.61783441752594848
+Memphis Grizzlies,New York Knicks,0.6703893947924181
+Oklahoma City Thunder,Phoenix Suns,0.88284441916656975
+Toronto Raptors,Miami Heat,0.67461695929842314
+Utah Jazz,Minnesota Timberwolves,0.73337086044010236
+Chicago Bulls,Brooklyn Nets,0.72107651984113019
+Charlotte Hornets,Boston Celtics,0.56203009830355188
+Golden State Warriors,New Orleans Pelicans,0.94441643880919401
+Indiana Pacers,Orlando Magic,0.60222127827757599
+Milwaukee Bucks,Philadelphia 76ers,0.71822898904086097
+Portland Trail Blazers,Utah Jazz,0.77974419249030813
+San Antonio Spurs,Los Angeles Clippers,0.74168334286772475
+Miami Heat,Washington Wizards,0.5404330603846923
+Cleveland Cavaliers,Atlanta Hawks,0.66512553571420452
+Oklahoma City Thunder,Denver Nuggets,0.83372037020695533
+Minnesota Timberwolves,Los Angeles Lakers,0.6103138215175119
+Detroit Pistons,Memphis Grizzlies,0.54494008593474819
+Toronto Raptors,New York Knicks,0.75665945842422488
+Dallas Mavericks,Phoenix Suns,0.67167240260988614
+Houston Rockets,Sacramento Kings,0.56434418152359289
+Boston Celtics,Brooklyn Nets,0.89937937366126097
+Chicago Bulls,Orlando Magic,0.68369763664167482
+Detroit Pistons,Washington Wizards,0.58337447868950576
+Golden State Warriors,Utah Jazz,0.88383082508403921
+Los Angeles Clippers,Houston Rockets,0.7123802218296571
+Cleveland Cavaliers,Miami Heat,0.64062873129361508
+Charlotte Hornets,Milwaukee Bucks,0.71661986320507154
+Indiana Pacers,Philadelphia 76ers,0.87627648266700753
+San Antonio Spurs,Portland Trail Blazers,0.59042102323485035
+Atlanta Hawks,Charlotte Hornets,0.55064125387596252
+Dallas Mavericks,Denver Nuggets,0.7253435535507109
+New Orleans Pelicans,Los Angeles Lakers,0.55557917900792231
+Oklahoma City Thunder,Minnesota Timberwolves,0.83565173992471709
+Sacramento Kings,Phoenix Suns,0.73499146664387771
+Boston Celtics,Milwaukee Bucks,0.80691290911083446
+Chicago Bulls,Brooklyn Nets,0.85800156185256815
+Cleveland Cavaliers,Toronto Raptors,0.69572517868832573
+Golden State Warriors,Los Angeles Lakers,0.97487548957069248
+Houston Rockets,Minnesota Timberwolves,0.72787231312282641
+Indiana Pacers,Atlanta Hawks,0.50201904609955805
+Los Angeles Clippers,Sacramento Kings,0.81839140104827346
+Dallas Mavericks,Memphis Grizzlies,0.50760860105348937
+Miami Heat,Washington Wizards,0.68748223283724585
+New York Knicks,Philadelphia 76ers,0.85785305791612398
+Oklahoma City Thunder,Denver Nuggets,0.88087344613291185
+Detroit Pistons,Orlando Magic,0.54773232313860243
+Portland Trail Blazers,New Orleans Pelicans,0.88771773023325229
+San Antonio Spurs,Utah Jazz,0.76784076035338122
